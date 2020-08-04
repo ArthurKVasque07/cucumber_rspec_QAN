@@ -18,10 +18,10 @@ Feature: Login
         Then não devo ser autenticado
         And devo ver a mensagem de alerta <texto>
 
-        Exemples: 
+        Examples: 
             | email             | senha     | texto                          |
             | "tony@stark.com"  | "abc123"  | "Usuário e/ou senha inválidos" |
             | "404@yahoo.com"   | "abc123"  | "Usuário e/ou senha inválidos" |
-            | ""                | "abcxpto" | "Ops. Cadê o email?"           |
-            | "teste@gmail.com" | ""        | "Ops. Cadê a senha?"           |
+            | ""                | "abcxpto" | "Opps. Cadê o email?"          |
+            | "teste@gmail.com" | ""        | "Opps. Cadê a senha?"          |
 

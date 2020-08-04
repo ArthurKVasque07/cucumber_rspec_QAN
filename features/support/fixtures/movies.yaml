@@ -1,0 +1,89 @@
+ultimato: 
+    title: "Vingadores Ultimato"
+    status: "Disponível"
+    year: 2019
+    release_date: "24/04/2019"
+    cast: ["Robert Downey Jr", "Chris Evans", "Brie Larson", "Scralett Johansson"]
+    overview: "Após Thanos eliminar metade do universo, os vingadores terão que resolver essa treta."
+    cover: "ultimato.jpg"
+
+spider:
+    title: "Homem Aranha Longe de Casa"
+    status: "Pré-venda"
+    year: 2019
+    release_date: "04/07/2019"
+    cast: ["Tom Holland", "Samuel L. Jackson", "Marisa Tomei"]
+    overview: "Peter Parker está em uma viagem pela Europa e é convocado por Nick Fury para uma missão."
+    cover: "spider.jpg"
+
+jocker:
+    title: "Coringa"
+    status: "Em breve"
+    year: 2019
+    release_date: "01/12/2020"
+    cast: ["Joaquin Phoenix"]
+    overview: "O comediante falido Arthur Fleck encontra violentos bandidos pelas ruas de Gotham City."
+    cover: "coringa.jpg"
+
+deadpool2:
+    title: "Deadpool 2"
+    status: "Disponível"
+    year: 2018
+    release_date: "01/05/2018"
+    cast: ["Ryan Reynolds", "Josh Brolin"]
+    overview: "O super soldado Cable vem com a missão de detonar um jovem mutante e o Deadpool deve salvá-lo."
+    cover: "dp2.jpg"
+
+dbz:
+    title: "Dragon Ball Evolution"
+    status: "Disponível"
+    year: 2009
+    release_date: "10/07/2009"
+    cast: []
+    overview: ""
+    cover: "dbz.jpg"
+
+10_coisas:
+    title: "10 coisas que eu odeio em voce"
+    status: "Disponível"
+    year: 1999
+    release_date: "10/07/1999"
+    cast: []
+    overview: ""
+    cover: "10-coisas.jpg"
+
+no_title:
+    title: ""
+    status: "Disponível"
+    year: 2020
+    release_date: "01/12/2020"
+    cast: []
+    overview: ""
+    cover: ""
+
+no_status:
+    title: "Filme teste"
+    status: ""
+    year: 2020
+    release_date: "01/12/2020"
+    cast: []
+    overview: ""
+    cover: ""
+    
+no_year:
+    title: "Filme teste"
+    status: "Disponível"
+    year: ""
+    release_date: "01/12/2020"
+    cast: []
+    overview: ""
+    cover: ""            
+
+no_date:
+    title: "Filme teste"
+    status: "Disponível"
+    year: "2020"
+    release_date: ""
+    cast: []
+    overview: ""
+    cover: "" 

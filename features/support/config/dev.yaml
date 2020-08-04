@@ -1,0 +1,12 @@
+url: "http://localhost:8080"
+
+database:
+    host: "127.0.0.1"
+    dbname: "ninjaflix"
+    user: "postgres" 
+    password: "qaninja"
+
+users: 
+    cat_manager:
+        email: "tony@stark.com"
+        pass: "pwd123"
